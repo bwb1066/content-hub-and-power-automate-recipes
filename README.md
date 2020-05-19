@@ -1,1 +1,3 @@
 # content-hub-and-power-automate-recipes
+
+My name is Brian Bishop and I am a sales engineer at Sitecore. This github repo is a public list of Microsoft Power Automate packages that you can import and use to integrate Sitecore Content Hub in a number of different ways. These 'recipes' are simply examples of ways to integrate Content Hub and other cloud platforms, they are not sanctioned or supported in any way by Sitecore. I am providing them as starting points for your integration efforts, and as instructional examples of how to access the Sitecore Content Hub REST API. Feel free to add your commentary and/or describe your own similar efforts.
